@@ -1,8 +1,5 @@
 <?php
 
-error_reporting(E_ALL &~ E_NOTICE);
-ini_set('display_errors', true);
-
 /*
   Plugin Name: Directories
   Plugin URI: http://spinningyourweb.net
